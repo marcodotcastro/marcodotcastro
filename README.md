@@ -22,5 +22,41 @@ class Programmer
   end
 end
 ```
+<h3>Open Source Projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	    <td><a href="https://github.com/marcodotcastro/portal-agro"><b>Portal Agro</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+		<td><a href="https://github.com/marcodotcastro/sale-factory"><b>Sales Factory</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+		<tr>
+			<td><a href="https://github.com/marcodotcastro/study-rails-vs-phoenix-vs-laravel"><b>Rails vs Phoenix vs Laravel</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/marcodotcastro/study-rails-vs-phoenix-vs-laravel?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/study-rails-vs-phoenix-vs-laravel?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/study-rails-vs-phoenix-vs-laravel?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/study-rails-vs-phoenix-vs-laravel?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcodotcastro&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
