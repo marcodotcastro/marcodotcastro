@@ -86,10 +86,6 @@ class Programmer
     <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodotcastro&layout=compact" alt="marcodotcastro" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcodotcastro&show_icons=true" alt="marcodotcastro" /></p>
-
 ```ruby 
 	end 
 end 
