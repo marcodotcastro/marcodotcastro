@@ -1,6 +1,10 @@
 # Olá, eu sou Marco Castro 
 
-```ruby class Programmer def initialize() ```
+```ruby 
+class Programmer
+
+	def initialize() 
+```
 
 <p align="left">
     <h3 align="left">Connect with me:</h3>
@@ -85,4 +89,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcodotcastro&show_icons=true" alt="marcodotcastro" /></p>
 
-```ruby end end ```
+```ruby 
+	end 
+end 
+```
