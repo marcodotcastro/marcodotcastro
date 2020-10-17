@@ -66,25 +66,34 @@ class Programmer
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://rubyonrails.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" /> </a>
-    <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40" /> </a>
-    <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" /> </a>
-    <a href="https://laravel.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" /> </a>
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
-    <a href="https://www.oracle.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" /> </a>
-    <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
-    <a href="https://redis.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a>
-    <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a>
-</p>
+    <p align="left">
+        <h4 align="left">Skill High:</h4>
+        <a href="https://stackshare.io/rails" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" /></a>
+        <a href="https://stackshare.io/ruby" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /></a>
+        <a href="https://stackshare.io/rubymine" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/rubymine/rubymine-original.svg" alt="java" width="40" height="40" /></a>
+        <a href="https://stackshare.io/oracle" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" /></a>
+        <a href="https://stackshare.io/git" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
+        <a href="https://stackshare.io/github" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="40" height="40" /></a>
+        <a href="https://stackshare.io/linux" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
+        <a href="https://stackshare.io/php" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
+        <a href="https://stackshare.io/java" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
+        <a href="https://stackshare.io/ubuntu" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="java" width="40" height="40" /></a>
+        <h4 align="left">Skill Medium:</h4>
+        <a href="https://stackshare.io/search/q=aws" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" /></a>
+        <a href="https://stackshare.io/docker" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>
+        <a href="https://stackshare.io/laravel" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40" /></a>
+        <a href="https://stackshare.io/javascript" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
+        <h4 align="left">Skill Low:</h4>
+        <a href="https://stackshare.io/vuejs" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" /></a>
+        <a href="https://stackshare.io/python" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
+        <a href="https://stackshare.io/redis" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original.svg" alt="redis" width="40" height="40" /></a>
+        <a href="https://stackshare.io/postgresql" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a>
+    </p>
+    <h3 align="left">Studies:</h3>
+    <p align="left">
+        <a href="https://stackshare.io/search/q=aws" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices" width="40" height="40" /></a>
+        <a href="https://stackshare.io/vuejs" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" /></a>
+    </p>
 
 ```ruby 
 	end 
