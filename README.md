@@ -77,7 +77,7 @@ class Programmer
 
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
-        <h4 align="left">Skill High:</h4>
+        <h4 align="left">High Skill:</h4>
         <a href="https://stackshare.io/rails" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" /></a>
         <a href="https://stackshare.io/ruby" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /></a>
         <a href="https://stackshare.io/rubymine" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/rubymine/rubymine-original.svg" alt="java" width="40" height="40" /></a>
@@ -88,13 +88,13 @@ class Programmer
         <a href="https://stackshare.io/php" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
         <a href="https://stackshare.io/java" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
         <a href="https://stackshare.io/ubuntu" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="java" width="40" height="40" /></a>
-        <h4 align="left">Skill Medium:</h4>
+        <h4 align="left">Medium Skill:</h4>
         <a href="https://stackshare.io/search/q=aws" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" /></a>
         <a href="https://stackshare.io/docker" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>
         <a href="https://stackshare.io/laravel" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40" /></a>
         <a href="https://stackshare.io/javascript" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
 	<a href="https://stackshare.io/postgresql" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a>
-        <h4 align="left">Skill Low:</h4>
+        <h4 align="left">Low Skill:</h4>
         <a href="https://stackshare.io/vuejs" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" /></a>
         <a href="https://stackshare.io/python" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
         <a href="https://stackshare.io/redis" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original.svg" alt="redis" width="40" height="40" /></a>
