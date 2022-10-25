@@ -105,5 +105,5 @@ class Programmer
 	end 
 end 
 ```
-    <figure><embed src="https://wakatime.com/share/@marcodotcastro/8c73b888-8433-4e18-b7dd-64d0414ad18b.svg"></embed></figure>
-    <figure><embed src="https://wakatime.com/share/@marcodotcastro/f8c2bb83-f875-42fa-9295-ef129e47d8bd.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@marcodotcastro/8c73b888-8433-4e18-b7dd-64d0414ad18b.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@marcodotcastro/f8c2bb83-f875-42fa-9295-ef129e47d8bd.svg"></embed></figure>
