@@ -105,7 +105,3 @@ class Programmer
 	end 
 end 
 ```
-
-<picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://wakatime.com/share/@marcodotcastro/f8c2bb83-f875-42fa-9295-ef129e47d8bd.svg">
-</picture>
