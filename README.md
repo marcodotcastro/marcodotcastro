@@ -4,7 +4,7 @@ Product Builder · Tech Lead & Ex-CTO
 
 Líder técnico com quase duas décadas de experiência em engenharia de software e liderança de produtos digitais. Atuo na convergência entre descoberta de problemas reais, arquitetura de sistemas distribuídos e ativação operacional de produtos.
 
-[Website](https://marcocastro.pro) · [LinkedIn](https://linkedin.com/in/marcodotcastro) · [Substack](https://codermasterai.substack.com) · [Email](mailto:marcodotcastro@gmail.com)
+[Website](https://marcocastro.pro) · [LinkedIn](https://linkedin.com/in/marcodotcastro) · [Substack](https://substack.com/@marcodotcastro) · [Email](mailto:marcodotcastro@gmail.com)
 
 ---
 
