@@ -4,7 +4,7 @@ Product Builder · Tech Lead & Ex-CTO
 
 Líder técnico com quase duas décadas de experiência em engenharia de software e liderança de produtos digitais. Atuo na convergência entre descoberta de problemas reais, arquitetura de sistemas distribuídos e ativação operacional de produtos.
 
-[Website](https://marco.pro) · [LinkedIn](https://www.linkedin.com/in/marcodotcastro/) · [Substack](https://substack.com/@marcodotcastro)
+[Website](https://marcocastro.pro) · [LinkedIn](https://www.linkedin.com/in/marcodotcastro/) · [Substack](https://substack.com/@marcodotcastro)
 
 ---
 
@@ -36,4 +36,4 @@ Utilizo inteligência artificial e fluxos agênticos como aceleradores pragmáti
 
 ---
 
-Mais detalhes sobre projetos, ensaios e trajetória profissional em [marco.pro](https://marco.pro). Para contato e conexões profissionais, estou disponível no [LinkedIn](https://www.linkedin.com/in/marcodotcastro/).
+Mais detalhes sobre projetos, ensaios e trajetória profissional em [marcocastro.pro](https://marcocastro.pro). Para contato e conexões profissionais, estou disponível no [LinkedIn](https://www.linkedin.com/in/marcodotcastro/).
